@@ -122,9 +122,6 @@ transform: translateY(-2px);
 .news-source{
     margin-block: 12px;
 }
-.news-desc{
-    overflow: scroll;
-}
 .active{
     color: #800020;
 }
