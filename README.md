@@ -13,3 +13,7 @@
 💼 Technologies: HTML, CSS, JavaScript, and the News API.
 
 🌟 Stay informed, stay stylish, and stay updated with the News App - Your gateway to the world's latest stories. Share this GitHub repository with the world! 🚀 #NewsApp #GitHub #WebDevelopment
+
+# ScreenShot: 
+![Untitled design (1)](https://github.com/Moumin-pk/News-App/assets/116239910/ec444147-eeab-4255-b0bd-429b3ebc5e88)
+
